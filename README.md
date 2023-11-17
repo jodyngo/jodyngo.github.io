@@ -1,5 +1,8 @@
 # jodyngo.github.io
 
+# INTRODUCTION
+Lightweight architecture for salient object detection 
+
 # NOTE
 
 Download pre-trained backbone "..." and put into folder "dataset/pretrained" 
