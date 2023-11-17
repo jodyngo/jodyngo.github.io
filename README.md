@@ -16,6 +16,8 @@ To run EC2Net, update the import data in "networks/Build_Model.py"
 
 
 # EC2Net
+"EC2Net: Efficient Attention-Based Cross-Context Network for Near Real-Time Salient Object Detection" ![Paper]([https://github.com/jodyngo/jodyngo.github.io/assets/24819547/428c3598-2ad4-418c-ab9b-d3569fae77ec](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10103899))
+
 ![EC2Net_VSC](https://github.com/jodyngo/jodyngo.github.io/assets/24819547/428c3598-2ad4-418c-ab9b-d3569fae77ec)
 
 
