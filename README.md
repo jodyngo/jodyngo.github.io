@@ -1,4 +1,4 @@
-# jodyngo.github.io
+# Lightweight Salient Object Detection
 
 # INTRODUCTION
 Lightweight architecture for salient object detection 
