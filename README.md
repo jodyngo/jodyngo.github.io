@@ -10,7 +10,7 @@ To run EC2Net, update the import data in "networks/Build_Model.py"
 
 # LightSOD: Towards lightweight and efficient neural network for salient object detection"
 
-(https://www.sciencedirect.com/science/article/pii/S1077314224002297))](https://www.sciencedirect.com/science/article/pii/S1077314224002297)
+(https://www.sciencedirect.com/science/article/pii/S1077314224002297))]
 
 ![MobileNetV3_Ver5](https://github.com/jodyngo/lightweightSOD/assets/24819547/44286014-9ac8-4b0b-9d97-1869e08e17af)
 
