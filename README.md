@@ -1,13 +1,3 @@
-# Lightweight Salient Object Detection
-
-# NOTE
-
-Download pre-trained backbone "..." and put into folder "dataset/pretrained" 
-
-Download dataset and put into folder "data"
-
-To run EC2Net, update the import data in "networks/Build_Model.py"
-
 # LightSOD: Towards lightweight and efficient neural network for salient object detection"
 
 (https://www.sciencedirect.com/science/article/pii/S1077314224002297))]
